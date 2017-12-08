@@ -1,6 +1,8 @@
 <application>
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="2000" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
 </application>
