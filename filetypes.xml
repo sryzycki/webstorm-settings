@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".htmllintrc" type="JSON" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="commit-guidelines" type="PLAIN_TEXT" />
       <mapping pattern=".htmlhintrc" type="PLAIN_TEXT" />
