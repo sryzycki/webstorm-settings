@@ -2,14 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".htmllintrc" type="JSON" />
+      <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="commit-guidelines" type="PLAIN_TEXT" />
+      <mapping pattern=".htmlhintrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".clang-format" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
-      <mapping pattern=".htmlhintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="PLAIN_TEXT" />
